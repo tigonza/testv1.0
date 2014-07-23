@@ -39,10 +39,10 @@
         </plist>
     </ios>
     <android xmlns:android="http://schemas.android.com/apk/res/android">
-    	<tool-api-level>14</tool-api-level>
+    	<tool-api-level>19</tool-api-level>
     	<manifest>
         	<uses-sdk targetSdkVersion="19"/>
-        	<uses-sdk minSdkVersion="14"/>
+        	<uses-sdk minSdkVersion="11"/>
     	</manifest>
 	</android>
     <mobileweb>
