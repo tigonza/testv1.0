@@ -1,0 +1,11 @@
+".container": {
+	backgroundColor:"white"
+},
+"MenuItem": {
+    showAsAction: Ti.Android.SHOW_AS_ACTION_ALWAYS
+},
+"#menu": {
+    icon: "/actionicon.png",
+    displayHomeAsUp: true,
+    backgroundImage: "/actionbackground.png"
+}

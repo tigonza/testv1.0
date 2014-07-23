@@ -1,0 +1,23 @@
+<Alloy>
+	<TabGroup class="container">
+		<Tab id="encyclopedia" title="Encyclopedia">
+			<Window id="win1" title="Seeds">
+				<Menu id="menu" platform="android">
+					<MenuItem title="Encyclopedia"/>
+					<MenuItem title="Home"/>
+					<MenuItem title="Market"/>
+				</Menu>
+			</Window>
+		</Tab>
+		<Tab id="home" title="Home">
+			<Window id="win2" title="Home">
+				<Label id="label2" color="#999">I am Window 2</Label>
+			</Window>
+		</Tab>
+		<Tab id="market" title="Market">
+			<Window id="win3" title="Market">
+				<Label id="label2" color="#999">I am Window 3</Label>
+			</Window>
+		</Tab>
+	</TabGroup>
+</Alloy>
