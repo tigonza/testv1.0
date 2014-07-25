@@ -1,5 +1,7 @@
 <Alloy>
 	<ScrollableView>
-		
+		//TODO
+		// Data bind de los jardines de usuario a la scrollable View.
+		// Grid para lcada planta, con data bind a las plantas de cada jardin.
 	</ScrollableView>
 </Alloy>

@@ -10,4 +10,6 @@
 			<Require type="view" src="market" id="marketTab" />
 		</Tab>
 	</TabGroup>
+	//TODO
+	// Opciones en la action bar con weas del usuario.
 </Alloy>
